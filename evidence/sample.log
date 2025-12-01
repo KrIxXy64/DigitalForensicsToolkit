@@ -1,0 +1,6 @@
+2025-11-30 10:15:23 user=alice action=login ip=192.168.1.10
+2025-11-30 10:16:10 user=alice action=view_file file=/docs/report.pdf
+2025-11-30 10:17:55 user=bob action=login ip=192.168.1.11
+2025-11-30 10:18:30 user=bob action=delete_file file=/docs/confidential.txt
+2025-11-30 10:20:05 user=alice action=logout
+

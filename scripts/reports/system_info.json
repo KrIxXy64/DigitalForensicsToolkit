@@ -1,0 +1,10 @@
+{
+  "timestamp": "2025-12-01T23:06:13.640718",
+  "hostname": "sarthaks-MacBook-Air.local",
+  "ip_address": "127.0.0.1",
+  "os": "Darwin",
+  "os_version": "Darwin Kernel Version 24.6.0: Wed Oct 15 21:12:44 PDT 2025; root:xnu-11417.140.69.703.14~1/RELEASE_ARM64_T8112",
+  "machine": "arm64",
+  "processor": "arm",
+  "python_version": "3.13.2"
+}
